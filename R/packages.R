@@ -10,6 +10,8 @@ pacman::p_load(
   plotKML,
   magick,
   leaflet,
+  leaflet.extras,
   leafem,
   leafpop,
-  exifr)
+  exifr,
+  fwapgr)
