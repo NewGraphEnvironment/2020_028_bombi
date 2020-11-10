@@ -1,0 +1,15 @@
+library(DBI)
+library(tidyverse)
+library(sf)
+library(RPostgres)
+library(data.table)
+pacman::p_load(
+  janitor,
+  knitr,
+  kableExtra,
+  plotKML,
+  magick,
+  leaflet,
+  leafem,
+  leafpop,
+  exifr)
